@@ -36,7 +36,7 @@
 //             'error',
 //             {
 //                 max: 1,
-//                 maxEOf: 1,
+//                 maxEOF: 1,
 //             },
 //         ],
 //         'camelcase': 0,
@@ -58,12 +58,12 @@
 //         'object-curly-newline': 0,
 //         'react/jsx-filename-extension': 0,
 //         'react/jsx-one-expression-per-line': 0,
-//         'jsx-ally/click-events-have-key-events': 0,
-//         'jsx-ally/alt-text': 0,
-//         'jsx-ally/no-autofocus': 0,
-//         'jsx-ally/no-static-element-interactions': 0,
+//         'jsx-a11y/click-events-have-key-events': 0,
+//         'jsx-a11y/alt-text': 0,
+//         'jsx-a11y/no-autofocus': 0,
+//         'jsx-a11y/no-static-element-interactions': 0,
 //         'react/no-array-index-key': 0,
-//         'jsx-ally/anchor-is-valid': [
+//         'jsx-a11y/anchor-is-valid': [
 //             'error',
 //             {
 //                 components: [
